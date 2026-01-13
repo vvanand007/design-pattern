@@ -1,7 +1,7 @@
-package factoryDesign;
+package creationalDesign.factoryDesign;
 
-import factoryDesign.os.OS;
-import factoryDesign.os.OSFactory;
+import creationalDesign.factoryDesign.os.OS;
+import creationalDesign.factoryDesign.os.OSFactory;
 
 public class FactoryMain {
     public static void main(String[] args) {
